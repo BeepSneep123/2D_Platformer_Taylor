@@ -1,4 +1,6 @@
 # 2D_Platformer_Taylor
-Repo to manage 2d Unity platformer game.
+Repo to manage my 2d Unity platformer game.
 
-Hello, this is a repo for my Unity 2D platformer game. 
+
+
+I am excited to be a part of this project. 
